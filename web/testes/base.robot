@@ -1,4 +1,4 @@
-
+#Validação de importantes settings
 *** Settings    ***
 
 Library     SeleniumLibrary
